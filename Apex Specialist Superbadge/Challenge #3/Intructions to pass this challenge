@@ -1,0 +1,6 @@
+Go back back and First do the WarehouseSyncSchedule.cls this then come here and follow the process
+
+
+
+Go to setup -> Seacrh in Quick find box -> Apex Classes -> click Schedule Apex and Jb Name = WarehouseSyncScheduleJob 
+Now check challenge.
